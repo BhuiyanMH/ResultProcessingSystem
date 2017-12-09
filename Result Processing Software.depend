@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1403625994 source:d:\code blocks projects\result processing software\main.c
+	"admin.h"
+
+1402655628 d:\code blocks projects\result processing software\admin.h
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+	"vars.h"
+	"file.h"
+	"windowFunction.h"
+	"functions.h"
+
+1402824133 d:\code blocks projects\result processing software\vars.h
+
+1402197902 d:\code blocks projects\result processing software\windowfunction.h
+
+1403438235 d:\code blocks projects\result processing software\functions.h
+
+1402198223 d:\code blocks projects\result processing software\file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1400861399 source:d:\projects\code blocks projects\result processing software\main.c
+	"admin.h"
+
+1400870900 d:\projects\code blocks projects\result processing software\admin.h
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+	"vars.h"
+	"file.h"
+	"windowFunction.h"
+	"functions.h"
+
+1400556745 d:\projects\code blocks projects\result processing software\vars.h
+
+1400870542 d:\projects\code blocks projects\result processing software\file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1400433488 d:\projects\code blocks projects\result processing software\windowfunction.h
+
+1400864357 d:\projects\code blocks projects\result processing software\functions.h
+
